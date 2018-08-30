@@ -1,0 +1,7 @@
+Output
+
+Size of int = 4 bytes 
+Size of long = 8 bytes
+Size of long long = 8 bytes
+Size of double = 8 bytes
+Size of long double = 16 bytes
